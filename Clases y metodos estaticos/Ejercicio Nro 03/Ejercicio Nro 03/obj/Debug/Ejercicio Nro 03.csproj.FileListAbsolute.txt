@@ -1,0 +1,7 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clases y metodos estaticos\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Ejercicio Nro 03.exe.config
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clases y metodos estaticos\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Ejercicio Nro 03.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clases y metodos estaticos\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Ejercicio Nro 03.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clases y metodos estaticos\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clases y metodos estaticos\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clases y metodos estaticos\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clases y metodos estaticos\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.pdb
