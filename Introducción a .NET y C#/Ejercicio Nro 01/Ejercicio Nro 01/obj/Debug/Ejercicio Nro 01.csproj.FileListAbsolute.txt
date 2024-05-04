@@ -1,0 +1,7 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Introducción a .NET y C#\Ejercicio Nro 01\Ejercicio Nro 01\bin\Debug\Ejercicio Nro 01.exe.config
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Introducción a .NET y C#\Ejercicio Nro 01\Ejercicio Nro 01\bin\Debug\Ejercicio Nro 01.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Introducción a .NET y C#\Ejercicio Nro 01\Ejercicio Nro 01\bin\Debug\Ejercicio Nro 01.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Introducción a .NET y C#\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Introducción a .NET y C#\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Introducción a .NET y C#\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Introducción a .NET y C#\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.pdb
