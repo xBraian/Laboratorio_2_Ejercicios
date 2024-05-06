@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1351FFC9-4285-4312-96B9-314D3B9032BC}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 02\\ejercicio nro 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1351FFC9-4285-4312-96B9-314D3B9032BC}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|solutionrelative:ejercicio nro 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8160F892-2819-4409-AD98-FC55269DCB7E}|Billetes\\Billetes.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 02\\billetes\\pesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8160F892-2819-4409-AD98-FC55269DCB7E}|Billetes\\Billetes.csproj|solutionrelative:billetes\\pesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8160F892-2819-4409-AD98-FC55269DCB7E}|Billetes\\Billetes.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 02\\billetes\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8160F892-2819-4409-AD98-FC55269DCB7E}|Billetes\\Billetes.csproj|solutionrelative:billetes\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8160F892-2819-4409-AD98-FC55269DCB7E}|Billetes\\Billetes.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 02\\billetes\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8160F892-2819-4409-AD98-FC55269DCB7E}|Billetes\\Billetes.csproj|solutionrelative:billetes\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pesos.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 02\\Billetes\\Pesos.cs",
+              "RelativeDocumentMoniker": "Billetes\\Pesos.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 02\\Billetes\\Pesos.cs",
+              "RelativeToolTip": "Billetes\\Pesos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:12:25.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Euro.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 02\\Billetes\\Euro.cs",
+              "RelativeDocumentMoniker": "Billetes\\Euro.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 02\\Billetes\\Euro.cs",
+              "RelativeToolTip": "Billetes\\Euro.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAA0wGMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:12:15.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dolar.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 02\\Billetes\\Dolar.cs",
+              "RelativeDocumentMoniker": "Billetes\\Dolar.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 02\\Billetes\\Dolar.cs",
+              "RelativeToolTip": "Billetes\\Dolar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAF0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:11:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 02\\Ejercicio Nro 02\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 02\\Program.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 02\\Ejercicio Nro 02\\Program.cs",
+              "RelativeToolTip": "Ejercicio Nro 02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:10:44.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

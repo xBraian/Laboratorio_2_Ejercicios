@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8122E-91AD-403A-A4C5-30CC63B3B096}|Ejercicio Nro 03\\Ejercicio Nro 03.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 03\\ejercicio nro 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC8122E-91AD-403A-A4C5-30CC63B3B096}|Ejercicio Nro 03\\Ejercicio Nro 03.csproj|solutionrelative:ejercicio nro 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D76080-B3DC-4E65-A290-A6A1E023FF61}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 03\\entidades\\numerobinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D76080-B3DC-4E65-A290-A6A1E023FF61}|Entidades\\Entidades.csproj|solutionrelative:entidades\\numerobinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D76080-B3DC-4E65-A290-A6A1E023FF61}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 03\\entidades\\numerodecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D76080-B3DC-4E65-A290-A6A1E023FF61}|Entidades\\Entidades.csproj|solutionrelative:entidades\\numerodecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D76080-B3DC-4E65-A290-A6A1E023FF61}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 03\\entidades\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D76080-B3DC-4E65-A290-A6A1E023FF61}|Entidades\\Entidades.csproj|solutionrelative:entidades\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conversor.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 03\\Entidades\\Conversor.cs",
+              "RelativeDocumentMoniker": "Entidades\\Conversor.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 03\\Entidades\\Conversor.cs",
+              "RelativeToolTip": "Entidades\\Conversor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:04:30.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumeroDecimal.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 03\\Entidades\\NumeroDecimal.cs",
+              "RelativeDocumentMoniker": "Entidades\\NumeroDecimal.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 03\\Entidades\\NumeroDecimal.cs",
+              "RelativeToolTip": "Entidades\\NumeroDecimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:02:24.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumeroBinario.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 03\\Entidades\\NumeroBinario.cs",
+              "RelativeDocumentMoniker": "Entidades\\NumeroBinario.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 03\\Entidades\\NumeroBinario.cs",
+              "RelativeToolTip": "Entidades\\NumeroBinario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:01:25.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 03\\Ejercicio Nro 03\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 03\\Program.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 03\\Ejercicio Nro 03\\Program.cs",
+              "RelativeToolTip": "Ejercicio Nro 03\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:56:07.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

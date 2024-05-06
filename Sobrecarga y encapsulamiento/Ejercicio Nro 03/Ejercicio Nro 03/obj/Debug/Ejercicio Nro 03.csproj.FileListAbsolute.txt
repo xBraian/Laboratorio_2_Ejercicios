@@ -1,0 +1,10 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Ejercicio Nro 03.exe.config
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Ejercicio Nro 03.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Ejercicio Nro 03.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Entidades.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Entidades.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercici.078A27F1.Up2Date
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.pdb

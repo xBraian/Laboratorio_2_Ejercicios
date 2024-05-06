@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6370176C-8D5E-4045-A398-9CB3B9B16097}|Ejercicio Nro 05\\Ejercicio Nro 05.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 05\\ejercicio nro 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6370176C-8D5E-4045-A398-9CB3B9B16097}|Ejercicio Nro 05\\Ejercicio Nro 05.csproj|solutionrelative:ejercicio nro 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69509B16-D4EC-41BF-B6EC-C2D985F25580}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 05\\entidades\\kelvin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69509B16-D4EC-41BF-B6EC-C2D985F25580}|Entidades\\Entidades.csproj|solutionrelative:entidades\\kelvin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69509B16-D4EC-41BF-B6EC-C2D985F25580}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 05\\entidades\\celsius.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69509B16-D4EC-41BF-B6EC-C2D985F25580}|Entidades\\Entidades.csproj|solutionrelative:entidades\\celsius.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69509B16-D4EC-41BF-B6EC-C2D985F25580}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\sobrecarga y encapsulamiento\\ejercicio nro 05\\entidades\\fahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69509B16-D4EC-41BF-B6EC-C2D985F25580}|Entidades\\Entidades.csproj|solutionrelative:entidades\\fahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kelvin.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 05\\Entidades\\Kelvin.cs",
+              "RelativeDocumentMoniker": "Entidades\\Kelvin.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 05\\Entidades\\Kelvin.cs",
+              "RelativeToolTip": "Entidades\\Kelvin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:45:55.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Celsius.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 05\\Entidades\\Celsius.cs",
+              "RelativeDocumentMoniker": "Entidades\\Celsius.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 05\\Entidades\\Celsius.cs",
+              "RelativeToolTip": "Entidades\\Celsius.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:45:28.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fahrenheit.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 05\\Entidades\\Fahrenheit.cs",
+              "RelativeDocumentMoniker": "Entidades\\Fahrenheit.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 05\\Entidades\\Fahrenheit.cs",
+              "RelativeToolTip": "Entidades\\Fahrenheit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:44:30.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 05\\Ejercicio Nro 05\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 05\\Program.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Sobrecarga y encapsulamiento\\Ejercicio Nro 05\\Ejercicio Nro 05\\Program.cs",
+              "RelativeToolTip": "Ejercicio Nro 05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:43:54.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

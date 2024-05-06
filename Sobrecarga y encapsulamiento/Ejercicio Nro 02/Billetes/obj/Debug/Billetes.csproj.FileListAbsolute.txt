@@ -1,0 +1,6 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 02\Billetes\bin\Debug\Billetes.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 02\Billetes\bin\Debug\Billetes.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 02\Billetes\obj\Debug\Billetes.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 02\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 02\Billetes\obj\Debug\Billetes.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Sobrecarga y encapsulamiento\Ejercicio Nro 02\Billetes\obj\Debug\Billetes.pdb
