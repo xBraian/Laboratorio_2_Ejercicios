@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98E14774-8B22-4CCD-8513-8F3F5B4EB0D8}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\herencia\\ejercicio nro 01\\entidades\\vehiculoterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E14774-8B22-4CCD-8513-8F3F5B4EB0D8}|Entidades\\Entidades.csproj|solutionrelative:entidades\\vehiculoterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E14774-8B22-4CCD-8513-8F3F5B4EB0D8}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\herencia\\ejercicio nro 01\\entidades\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E14774-8B22-4CCD-8513-8F3F5B4EB0D8}|Entidades\\Entidades.csproj|solutionrelative:entidades\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C9F19B-1B3D-48B7-B043-7649A23569BF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\herencia\\ejercicio nro 01\\ejercicio nro 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C9F19B-1B3D-48B7-B043-7649A23569BF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|solutionrelative:ejercicio nro 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E14774-8B22-4CCD-8513-8F3F5B4EB0D8}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\herencia\\ejercicio nro 01\\entidades\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E14774-8B22-4CCD-8513-8F3F5B4EB0D8}|Entidades\\Entidades.csproj|solutionrelative:entidades\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E14774-8B22-4CCD-8513-8F3F5B4EB0D8}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\herencia\\ejercicio nro 01\\entidades\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E14774-8B22-4CCD-8513-8F3F5B4EB0D8}|Entidades\\Entidades.csproj|solutionrelative:entidades\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E14774-8B22-4CCD-8513-8F3F5B4EB0D8}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\herencia\\ejercicio nro 01\\entidades\\ecolores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E14774-8B22-4CCD-8513-8F3F5B4EB0D8}|Entidades\\Entidades.csproj|solutionrelative:entidades\\ecolores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiculoTerrestre.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Entidades\\VehiculoTerrestre.cs",
+              "RelativeDocumentMoniker": "Entidades\\VehiculoTerrestre.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Entidades\\VehiculoTerrestre.cs",
+              "RelativeToolTip": "Entidades\\VehiculoTerrestre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:54:55.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Entidades\\Moto.cs",
+              "RelativeDocumentMoniker": "Entidades\\Moto.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Entidades\\Moto.cs",
+              "RelativeToolTip": "Entidades\\Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:54:05.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Entidades\\Camion.cs",
+              "RelativeDocumentMoniker": "Entidades\\Camion.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Entidades\\Camion.cs",
+              "RelativeToolTip": "Entidades\\Camion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:53:51.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EColores.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Entidades\\EColores.cs",
+              "RelativeDocumentMoniker": "Entidades\\EColores.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Entidades\\EColores.cs",
+              "RelativeToolTip": "Entidades\\EColores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:53:02.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Automovil.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Entidades\\Automovil.cs",
+              "RelativeDocumentMoniker": "Entidades\\Automovil.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Entidades\\Automovil.cs",
+              "RelativeToolTip": "Entidades\\Automovil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:49:23.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Ejercicio Nro 01\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 01\\Program.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Herencia\\Ejercicio Nro 01\\Ejercicio Nro 01\\Program.cs",
+              "RelativeToolTip": "Ejercicio Nro 01\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:47:06.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
