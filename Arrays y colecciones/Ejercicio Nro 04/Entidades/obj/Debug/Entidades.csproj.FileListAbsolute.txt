@@ -1,0 +1,6 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Arrays y colecciones\Ejercicio Nro 04\Entidades\bin\Debug\Entidades.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Arrays y colecciones\Ejercicio Nro 04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Arrays y colecciones\Ejercicio Nro 04\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Arrays y colecciones\Ejercicio Nro 04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Arrays y colecciones\Ejercicio Nro 04\Entidades\obj\Debug\Entidades.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Arrays y colecciones\Ejercicio Nro 04\Entidades\obj\Debug\Entidades.pdb
