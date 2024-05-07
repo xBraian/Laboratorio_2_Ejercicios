@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 07 - Polimorfismo y clases abstractas\\Ejercicio Nro 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20D48B37-92CB-4C8D-8B2E-62CB69B1B63A}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 07 - polimorfismo y clases abstractas\\ejercicio nro 02\\entidades\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D48B37-92CB-4C8D-8B2E-62CB69B1B63A}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D48B37-92CB-4C8D-8B2E-62CB69B1B63A}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 07 - polimorfismo y clases abstractas\\ejercicio nro 02\\entidades\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D48B37-92CB-4C8D-8B2E-62CB69B1B63A}|Entidades\\Entidades.csproj|solutionrelative:entidades\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D48B37-92CB-4C8D-8B2E-62CB69B1B63A}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 07 - polimorfismo y clases abstractas\\ejercicio nro 02\\entidades\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D48B37-92CB-4C8D-8B2E-62CB69B1B63A}|Entidades\\Entidades.csproj|solutionrelative:entidades\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D48B37-92CB-4C8D-8B2E-62CB69B1B63A}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 07 - polimorfismo y clases abstractas\\ejercicio nro 02\\entidades\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D48B37-92CB-4C8D-8B2E-62CB69B1B63A}|Entidades\\Entidades.csproj|solutionrelative:entidades\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA72E54C-0AD1-4260-92E5-B1FF2B239C40}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 07 - polimorfismo y clases abstractas\\ejercicio nro 02\\ejercicio nro 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA72E54C-0AD1-4260-92E5-B1FF2B239C40}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|solutionrelative:ejercicio nro 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 07 - Polimorfismo y clases abstractas\\Ejercicio Nro 02\\Entidades\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Entidades\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 07 - Polimorfismo y clases abstractas\\Ejercicio Nro 02\\Entidades\\Cuadrado.cs",
+              "RelativeToolTip": "Entidades\\Cuadrado.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:59:07.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 07 - Polimorfismo y clases abstractas\\Ejercicio Nro 02\\Entidades\\Circulo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Circulo.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 07 - Polimorfismo y clases abstractas\\Ejercicio Nro 02\\Entidades\\Circulo.cs",
+              "RelativeToolTip": "Entidades\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:57:48.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 07 - Polimorfismo y clases abstractas\\Ejercicio Nro 02\\Entidades\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 07 - Polimorfismo y clases abstractas\\Ejercicio Nro 02\\Entidades\\Rectangulo.cs",
+              "RelativeToolTip": "Entidades\\Rectangulo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:57:32.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 07 - Polimorfismo y clases abstractas\\Ejercicio Nro 02\\Entidades\\Figura.cs",
+              "RelativeDocumentMoniker": "Entidades\\Figura.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 07 - Polimorfismo y clases abstractas\\Ejercicio Nro 02\\Entidades\\Figura.cs",
+              "RelativeToolTip": "Entidades\\Figura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:56:13.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 07 - Polimorfismo y clases abstractas\\Ejercicio Nro 02\\Ejercicio Nro 02\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 02\\Program.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 07 - Polimorfismo y clases abstractas\\Ejercicio Nro 02\\Ejercicio Nro 02\\Program.cs",
+              "RelativeToolTip": "Ejercicio Nro 02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:55:40.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
