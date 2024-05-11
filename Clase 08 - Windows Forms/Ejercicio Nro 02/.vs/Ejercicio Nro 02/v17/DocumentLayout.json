@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A415CB8D-90FB-4FEE-A3B8-B8AC71FF8093}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 08 - windows forms\\ejercicio nro 02\\entidades\\midiagrama.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{A415CB8D-90FB-4FEE-A3B8-B8AC71FF8093}|Entidades\\Entidades.csproj|solutionrelative:entidades\\midiagrama.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8FADEF-7AF9-46F8-A72C-21A7C5C70A3C}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 08 - windows forms\\ejercicio nro 02\\ejercicio nro 02\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8FADEF-7AF9-46F8-A72C-21A7C5C70A3C}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|solutionrelative:ejercicio nro 02\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A415CB8D-90FB-4FEE-A3B8-B8AC71FF8093}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\entidades\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A415CB8D-90FB-4FEE-A3B8-B8AC71FF8093}|Entidades\\Entidades.csproj|solutionrelative:entidades\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A415CB8D-90FB-4FEE-A3B8-B8AC71FF8093}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\entidades\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A415CB8D-90FB-4FEE-A3B8-B8AC71FF8093}|Entidades\\Entidades.csproj|solutionrelative:entidades\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A415CB8D-90FB-4FEE-A3B8-B8AC71FF8093}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A415CB8D-90FB-4FEE-A3B8-B8AC71FF8093}|Entidades\\Entidades.csproj|solutionrelative:entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8FADEF-7AF9-46F8-A72C-21A7C5C70A3C}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\ejercicio nro 02\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A8FADEF-7AF9-46F8-A72C-21A7C5C70A3C}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|solutionrelative:ejercicio nro 02\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiDiagrama.cd",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Entidades\\MiDiagrama.cd",
+              "RelativeDocumentMoniker": "Entidades\\MiDiagrama.cd",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Entidades\\MiDiagrama.cd",
+              "RelativeToolTip": "Entidades\\MiDiagrama.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-11T01:03:31.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmRegistro.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 02\\FrmRegistro.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmRegistro.cs",
+              "RelativeToolTip": "Ejercicio Nro 02\\FrmRegistro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:36:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Entidades\\Curso.cs",
+              "RelativeDocumentMoniker": "Entidades\\Curso.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Entidades\\Curso.cs",
+              "RelativeToolTip": "Entidades\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:30:01.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ingresante.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Entidades\\Ingresante.cs",
+              "RelativeDocumentMoniker": "Entidades\\Ingresante.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Entidades\\Ingresante.cs",
+              "RelativeToolTip": "Entidades\\Ingresante.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:26:21.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Entidades\\Persona.cs",
+              "RelativeDocumentMoniker": "Entidades\\Persona.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Entidades\\Persona.cs",
+              "RelativeToolTip": "Entidades\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:18:03.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmRegistro.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 02\\FrmRegistro.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio Nro 02\\FrmRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:16:29.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
