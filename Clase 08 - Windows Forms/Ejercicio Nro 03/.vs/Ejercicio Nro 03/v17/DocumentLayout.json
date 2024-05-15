@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D812F0F2-0598-4E32-ADC0-2A97B5F7B259}|Ejercicio Nro 03\\Ejercicio Nro 03.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 08 - windows forms\\ejercicio nro 03\\ejercicio nro 03\\frmdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D812F0F2-0598-4E32-ADC0-2A97B5F7B259}|Ejercicio Nro 03\\Ejercicio Nro 03.csproj|solutionrelative:ejercicio nro 03\\frmdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1AFBDB8-37F3-4FC8-B58E-47D1232969BC}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 08 - windows forms\\ejercicio nro 03\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1AFBDB8-37F3-4FC8-B58E-47D1232969BC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D812F0F2-0598-4E32-ADC0-2A97B5F7B259}|Ejercicio Nro 03\\Ejercicio Nro 03.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 08 - windows forms\\ejercicio nro 03\\ejercicio nro 03\\frmdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1AFBDB8-37F3-4FC8-B58E-47D1232969BC}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 03\\entidades\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AFBDB8-37F3-4FC8-B58E-47D1232969BC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D812F0F2-0598-4E32-ADC0-2A97B5F7B259}|Ejercicio Nro 03\\Ejercicio Nro 03.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 03\\ejercicio nro 03\\frmdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D812F0F2-0598-4E32-ADC0-2A97B5F7B259}|Ejercicio Nro 03\\Ejercicio Nro 03.csproj|solutionrelative:ejercicio nro 03\\frmdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1AFBDB8-37F3-4FC8-B58E-47D1232969BC}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 08 - windows forms\\ejercicio nro 03\\entidades\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1AFBDB8-37F3-4FC8-B58E-47D1232969BC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D812F0F2-0598-4E32-ADC0-2A97B5F7B259}|Ejercicio Nro 03\\Ejercicio Nro 03.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 03\\ejercicio nro 03\\frmdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D812F0F2-0598-4E32-ADC0-2A97B5F7B259}|Ejercicio Nro 03\\Ejercicio Nro 03.csproj|solutionrelative:ejercicio nro 03\\frmdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -38,46 +38,43 @@
               "RelativeToolTip": "Ejercicio Nro 03\\FrmDescuento.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:27:54.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T18:27:54.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Restaurante.cs",
               "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 03\\Entidades\\Restaurante.cs",
               "RelativeDocumentMoniker": "Entidades\\Restaurante.cs",
               "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 03\\Entidades\\Restaurante.cs",
               "RelativeToolTip": "Entidades\\Restaurante.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCUAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:12:38.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T18:12:38.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 03\\Entidades\\Producto.cs",
               "RelativeDocumentMoniker": "Entidades\\Producto.cs",
               "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 03\\Entidades\\Producto.cs",
               "RelativeToolTip": "Entidades\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T18:10:27.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FrmDescuento.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 03\\Ejercicio Nro 03\\FrmDescuento.cs",
               "RelativeDocumentMoniker": "Ejercicio Nro 03\\FrmDescuento.cs",
               "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 08 - Windows Forms\\Ejercicio Nro 03\\Ejercicio Nro 03\\FrmDescuento.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejercicio Nro 03\\FrmDescuento.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T17:39:15.52Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-05-11T17:39:15.52Z"
             }
           ]
         }

@@ -15,6 +15,6 @@ namespace Entidades
             _precio = precio;
         }
 
-        public decimal Precio { get => _precio; set => _precio = value; }
+        public decimal Precio { get => _precio; set => _precio = value; }  
     }
 }
