@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC50D230-4689-4974-A7F6-5BF0A3F1E6E7}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 09 - archivos y serializaci\u00F3n\\ejercicio nro 02\\ejercicio nro 02\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC50D230-4689-4974-A7F6-5BF0A3F1E6E7}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|solutionrelative:ejercicio nro 02\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC50D230-4689-4974-A7F6-5BF0A3F1E6E7}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\ejercicio nro 02\\frmaltamodificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC50D230-4689-4974-A7F6-5BF0A3F1E6E7}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|solutionrelative:ejercicio nro 02\\frmaltamodificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC50D230-4689-4974-A7F6-5BF0A3F1E6E7}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\ejercicio nro 02\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC50D230-4689-4974-A7F6-5BF0A3F1E6E7}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|solutionrelative:ejercicio nro 02\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC50D230-4689-4974-A7F6-5BF0A3F1E6E7}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\ejercicio nro 02\\frmaltamodificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC50D230-4689-4974-A7F6-5BF0A3F1E6E7}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|solutionrelative:ejercicio nro 02\\frmaltamodificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmListaSuper.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmListaSuper.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 02\\FrmListaSuper.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmListaSuper.cs",
+              "RelativeToolTip": "Ejercicio Nro 02\\FrmListaSuper.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAIAzwFQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:03:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAltaModificacion.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmAltaModificacion.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 02\\FrmAltaModificacion.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmAltaModificacion.cs",
+              "RelativeToolTip": "Ejercicio Nro 02\\FrmAltaModificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:06:04.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAltaModificacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmAltaModificacion.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 02\\FrmAltaModificacion.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmAltaModificacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio Nro 02\\FrmAltaModificacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:52:37.474Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmListaSuper.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmListaSuper.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 02\\FrmListaSuper.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmListaSuper.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio Nro 02\\FrmListaSuper.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:32:03.178Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
