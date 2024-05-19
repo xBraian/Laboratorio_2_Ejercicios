@@ -1,0 +1,19 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Ejercicio Nro 03.exe.config
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Ejercicio Nro 03.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Ejercicio Nro 03.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\System.Text.Json.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\System.Memory.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\System.ValueTuple.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\System.Buffers.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.csproj.SuggestedBindingRedirects.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercicio Nro 03.exe.config
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 09 - Archivos y serialización\Ejercicio Nro 03\Ejercicio Nro 03\obj\Debug\Ejercici.078A27F1.Up2Date

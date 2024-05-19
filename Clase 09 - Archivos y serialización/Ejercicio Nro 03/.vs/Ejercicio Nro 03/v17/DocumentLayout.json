@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD8CA69-D174-44D0-A155-B2035F3D3E97}|Ejercicio Nro 03\\Ejercicio Nro 03.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 09 - archivos y serializaci\u00F3n\\ejercicio nro 03\\ejercicio nro 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD8CA69-D174-44D0-A155-B2035F3D3E97}|Ejercicio Nro 03\\Ejercicio Nro 03.csproj|solutionrelative:ejercicio nro 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 03\\Ejercicio Nro 03\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 03\\Program.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 09 - Archivos y serializaci\u00F3n\\Ejercicio Nro 03\\Ejercicio Nro 03\\Program.cs",
+              "RelativeToolTip": "Ejercicio Nro 03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:43:44.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
