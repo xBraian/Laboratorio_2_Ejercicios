@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7163977-F326-4AC9-AC0F-AAB6C40969EF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 11 - excepciones\\ejercicio nro 01\\ejercicio nro 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7163977-F326-4AC9-AC0F-AAB6C40969EF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|solutionrelative:ejercicio nro 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7163977-F326-4AC9-AC0F-AAB6C40969EF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 11 - excepciones\\ejercicio nro 01\\ejercicio nro 01\\otraclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7163977-F326-4AC9-AC0F-AAB6C40969EF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|solutionrelative:ejercicio nro 01\\otraclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7163977-F326-4AC9-AC0F-AAB6C40969EF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 11 - excepciones\\ejercicio nro 01\\ejercicio nro 01\\miclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7163977-F326-4AC9-AC0F-AAB6C40969EF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|solutionrelative:ejercicio nro 01\\miclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7163977-F326-4AC9-AC0F-AAB6C40969EF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 11 - excepciones\\ejercicio nro 01\\ejercicio nro 01\\miexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7163977-F326-4AC9-AC0F-AAB6C40969EF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|solutionrelative:ejercicio nro 01\\miexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7163977-F326-4AC9-AC0F-AAB6C40969EF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 11 - excepciones\\ejercicio nro 01\\ejercicio nro 01\\unaexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7163977-F326-4AC9-AC0F-AAB6C40969EF}|Ejercicio Nro 01\\Ejercicio Nro 01.csproj|solutionrelative:ejercicio nro 01\\unaexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OtraClase.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 01\\Ejercicio Nro 01\\OtraClase.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 01\\OtraClase.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 01\\Ejercicio Nro 01\\OtraClase.cs",
+              "RelativeToolTip": "Ejercicio Nro 01\\OtraClase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:45:40.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiClase.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 01\\Ejercicio Nro 01\\MiClase.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 01\\MiClase.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 01\\Ejercicio Nro 01\\MiClase.cs",
+              "RelativeToolTip": "Ejercicio Nro 01\\MiClase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:15:30.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiExcepcion.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 01\\Ejercicio Nro 01\\MiExcepcion.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 01\\MiExcepcion.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 01\\Ejercicio Nro 01\\MiExcepcion.cs",
+              "RelativeToolTip": "Ejercicio Nro 01\\MiExcepcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:10:15.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnaExcepcion.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 01\\Ejercicio Nro 01\\UnaExcepcion.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 01\\UnaExcepcion.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 01\\Ejercicio Nro 01\\UnaExcepcion.cs",
+              "RelativeToolTip": "Ejercicio Nro 01\\UnaExcepcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:09:49.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 01\\Ejercicio Nro 01\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio Nro 01\\Program.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 01\\Ejercicio Nro 01\\Program.cs",
+              "RelativeToolTip": "Ejercicio Nro 01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:42:56.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
