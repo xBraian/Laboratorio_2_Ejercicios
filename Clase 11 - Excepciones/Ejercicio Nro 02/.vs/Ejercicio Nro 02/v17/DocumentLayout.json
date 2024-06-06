@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{BD677881-806A-4F8E-B202-F3FA71EF8629}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|solutionrelative:ejercicio nro 02\\frmcalculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12A839A-C705-4CB0-ADF0-31EBFD24C0E8}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 11 - excepciones\\ejercicio nro 02\\entidades\\calculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12A839A-C705-4CB0-ADF0-31EBFD24C0E8}|Entidades\\Entidades.csproj|solutionrelative:entidades\\calculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD677881-806A-4F8E-B202-F3FA71EF8629}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 02\\ejercicio nro 02\\frmcalculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD677881-806A-4F8E-B202-F3FA71EF8629}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|solutionrelative:ejercicio nro 02\\frmcalculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD677881-806A-4F8E-B202-F3FA71EF8629}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 11 - excepciones\\ejercicio nro 02\\ejercicio nro 02\\frmcalculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD677881-806A-4F8E-B202-F3FA71EF8629}|Ejercicio Nro 02\\Ejercicio Nro 02.csproj|solutionrelative:ejercicio nro 02\\frmcalculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E12A839A-C705-4CB0-ADF0-31EBFD24C0E8}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 02\\entidades\\calculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12A839A-C705-4CB0-ADF0-31EBFD24C0E8}|Entidades\\Entidades.csproj|solutionrelative:entidades\\calculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Calculador.cs",
               "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 02\\Entidades\\Calculador.cs",
               "RelativeDocumentMoniker": "Entidades\\Calculador.cs",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FrmCalculador.cs",
               "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmCalculador.cs",
               "RelativeDocumentMoniker": "Ejercicio Nro 02\\FrmCalculador.cs",
               "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 11 - Excepciones\\Ejercicio Nro 02\\Ejercicio Nro 02\\FrmCalculador.cs",
               "RelativeToolTip": "Ejercicio Nro 02\\FrmCalculador.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAEwB8AAABxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T20:31:41.737Z",
               "EditorCaption": ""
