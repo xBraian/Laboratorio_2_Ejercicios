@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B83F1B-4112-41D0-BD65-C6A2D05CB1BC}|MiDibujo\\MiDibujo.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\midibujo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B83F1B-4112-41D0-BD65-C6A2D05CB1BC}|MiDibujo\\MiDibujo.csproj|solutionrelative:midibujo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F9201B-867C-4AA9-883D-FD0628DC2BA0}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 14 - interfaces y tipos gen\u00E9ricos\\ejercicio nro 01\\entidades\\diagrama.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{94F9201B-867C-4AA9-883D-FD0628DC2BA0}|Entidades\\Entidades.csproj|solutionrelative:entidades\\diagrama.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F9201B-867C-4AA9-883D-FD0628DC2BA0}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\entidades\\clases\\escriturawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F9201B-867C-4AA9-883D-FD0628DC2BA0}|Entidades\\Entidades.csproj|solutionrelative:entidades\\clases\\escriturawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F9201B-867C-4AA9-883D-FD0628DC2BA0}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\entidades\\clases\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F9201B-867C-4AA9-883D-FD0628DC2BA0}|Entidades\\Entidades.csproj|solutionrelative:entidades\\clases\\boligrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F9201B-867C-4AA9-883D-FD0628DC2BA0}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 14 - interfaces y tipos gen\u00E9ricos\\ejercicio nro 01\\entidades\\clases\\lapiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F9201B-867C-4AA9-883D-FD0628DC2BA0}|Entidades\\Entidades.csproj|solutionrelative:entidades\\clases\\lapiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F9201B-867C-4AA9-883D-FD0628DC2BA0}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\entidades\\interfaces\\iacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F9201B-867C-4AA9-883D-FD0628DC2BA0}|Entidades\\Entidades.csproj|solutionrelative:entidades\\interfaces\\iacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Diagrama.cd",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\Entidades\\Diagrama.cd",
+              "RelativeDocumentMoniker": "Entidades\\Diagrama.cd",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\Entidades\\Diagrama.cd",
+              "RelativeToolTip": "Entidades\\Diagrama.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-08T17:49:04.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\MiDibujo\\Program.cs",
+              "RelativeDocumentMoniker": "MiDibujo\\Program.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\MiDibujo\\Program.cs",
+              "RelativeToolTip": "MiDibujo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:54:17.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lapiz.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\Entidades\\Clases\\Lapiz.cs",
+              "RelativeDocumentMoniker": "Entidades\\Clases\\Lapiz.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\Entidades\\Clases\\Lapiz.cs",
+              "RelativeToolTip": "Entidades\\Clases\\Lapiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:57:59.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Boligrafo.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\Entidades\\Clases\\Boligrafo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Clases\\Boligrafo.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\Entidades\\Clases\\Boligrafo.cs",
+              "RelativeToolTip": "Entidades\\Clases\\Boligrafo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:28:51.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EscrituraWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\Entidades\\Clases\\EscrituraWrapper.cs",
+              "RelativeDocumentMoniker": "Entidades\\Clases\\EscrituraWrapper.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\Entidades\\Clases\\EscrituraWrapper.cs",
+              "RelativeToolTip": "Entidades\\Clases\\EscrituraWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:08:32.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAcciones.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\Entidades\\Interfaces\\IAcciones.cs",
+              "RelativeDocumentMoniker": "Entidades\\Interfaces\\IAcciones.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 01\\Entidades\\Interfaces\\IAcciones.cs",
+              "RelativeToolTip": "Entidades\\Interfaces\\IAcciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:19:09.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

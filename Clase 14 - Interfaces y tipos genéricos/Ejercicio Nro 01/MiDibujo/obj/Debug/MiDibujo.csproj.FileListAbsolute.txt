@@ -1,0 +1,10 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Ejercicio Nro 01\MiDibujo\bin\Debug\MiDibujo.exe.config
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Ejercicio Nro 01\MiDibujo\bin\Debug\MiDibujo.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Ejercicio Nro 01\MiDibujo\bin\Debug\MiDibujo.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Ejercicio Nro 01\MiDibujo\bin\Debug\Entidades.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Ejercicio Nro 01\MiDibujo\bin\Debug\Entidades.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Ejercicio Nro 01\MiDibujo\obj\Debug\MiDibujo.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Ejercicio Nro 01\MiDibujo\obj\Debug\MiDibujo.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Ejercicio Nro 01\MiDibujo\obj\Debug\MiDibujo.csproj.Up2Date
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Ejercicio Nro 01\MiDibujo\obj\Debug\MiDibujo.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Ejercicio Nro 01\MiDibujo\obj\Debug\MiDibujo.pdb
