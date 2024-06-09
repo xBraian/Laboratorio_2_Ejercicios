@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B544103F-7560-4E10-BDAD-07CAD97B7E3C}|MiTorneo\\MiTorneo.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 14 - interfaces y tipos gen\u00E9ricos\\ejercicio nro 02\\mitorneo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B544103F-7560-4E10-BDAD-07CAD97B7E3C}|MiTorneo\\MiTorneo.csproj|solutionrelative:mitorneo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 02\\MiTorneo\\Program.cs",
+              "RelativeDocumentMoniker": "MiTorneo\\Program.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 14 - Interfaces y tipos gen\u00E9ricos\\Ejercicio Nro 02\\MiTorneo\\Program.cs",
+              "RelativeToolTip": "MiTorneo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:09:52.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
