@@ -1,0 +1,10 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Generics\MiTorneo\bin\Debug\MiTorneo.exe.config
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Generics\MiTorneo\bin\Debug\MiTorneo.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Generics\MiTorneo\bin\Debug\MiTorneo.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Generics\MiTorneo\bin\Debug\Entidades.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Generics\MiTorneo\bin\Debug\Entidades.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Generics\MiTorneo\obj\Debug\MiTorneo.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Generics\MiTorneo\obj\Debug\MiTorneo.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Generics\MiTorneo\obj\Debug\MiTorneo.csproj.Up2Date
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Generics\MiTorneo\obj\Debug\MiTorneo.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 14 - Interfaces y tipos genéricos\Generics\MiTorneo\obj\Debug\MiTorneo.pdb
