@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.Clases.Auto">
+    <Position X="0.5" Y="9" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAIAAAAAAAABAAAAAAAAAAAAAiQ=</HashCode>
+      <FileName>Clases\Auto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Clases.Concesionaria">
+    <Position X="0.5" Y="12.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgACAAQAAAACQBEAAAAGBAAAAQQAAAAAgAAAAuA=</HashCode>
+      <FileName>Clases\Concesionaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Fabricante">
+    <Position X="0.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAAAQCAAAAAAAAAAAAAAAAAAIAAAAAAAAAAiA=</HashCode>
+      <FileName>Clases\Fabricante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Clases.Moto">
+    <Position X="8.5" Y="9" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAEgAAAAAQAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Clases\Moto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Clases.Vehiculo">
+    <Position X="0.5" Y="4" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAQAQAAAAAQAAABQAEAQAAAAAAgAQAAAAmA=</HashCode>
+      <FileName>Clases\Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ECilindrada">
+    <Position X="14" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAkAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumeradores\ECilindrada.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EPais">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAE=</HashCode>
+      <FileName>Enumeradores\EPais.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ETipo">
+    <Position X="5.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAggAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumeradores\ETipo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EVehiculo">
+    <Position X="5.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAIAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Enumeradores\EVehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

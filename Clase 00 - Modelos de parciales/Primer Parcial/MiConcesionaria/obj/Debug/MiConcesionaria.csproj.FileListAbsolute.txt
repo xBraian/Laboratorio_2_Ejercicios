@@ -1,0 +1,10 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 00 - Modelos de parciales\Primer Parcial\MiConcesionaria\bin\Debug\MiConcesionaria.exe.config
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 00 - Modelos de parciales\Primer Parcial\MiConcesionaria\bin\Debug\MiConcesionaria.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 00 - Modelos de parciales\Primer Parcial\MiConcesionaria\bin\Debug\MiConcesionaria.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 00 - Modelos de parciales\Primer Parcial\MiConcesionaria\bin\Debug\Entidades.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 00 - Modelos de parciales\Primer Parcial\MiConcesionaria\bin\Debug\Entidades.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 00 - Modelos de parciales\Primer Parcial\MiConcesionaria\obj\Debug\MiConcesionaria.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 00 - Modelos de parciales\Primer Parcial\MiConcesionaria\obj\Debug\MiConcesionaria.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 00 - Modelos de parciales\Primer Parcial\MiConcesionaria\obj\Debug\MiConces.F416DD25.Up2Date
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 00 - Modelos de parciales\Primer Parcial\MiConcesionaria\obj\Debug\MiConcesionaria.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 00 - Modelos de parciales\Primer Parcial\MiConcesionaria\obj\Debug\MiConcesionaria.pdb
