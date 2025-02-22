@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC9A38-2CEC-44ED-88FD-050353A30993}|FrmPrincipal\\MisFormularios.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 17 - delegados y expresiones lambda\\ejercicio nro 01\\frmprincipal\\frmtestdelegados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AC9A38-2CEC-44ED-88FD-050353A30993}|FrmPrincipal\\MisFormularios.csproj|solutionrelative:frmprincipal\\frmtestdelegados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC9A38-2CEC-44ED-88FD-050353A30993}|FrmPrincipal\\FrmPrincipal.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\frmprincipal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27AC9A38-2CEC-44ED-88FD-050353A30993}|FrmPrincipal\\FrmPrincipal.csproj|solutionrelative:frmprincipal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC9A38-2CEC-44ED-88FD-050353A30993}|FrmPrincipal\\MisFormularios.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\frmprincipal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AC9A38-2CEC-44ED-88FD-050353A30993}|FrmPrincipal\\MisFormularios.csproj|solutionrelative:frmprincipal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC9A38-2CEC-44ED-88FD-050353A30993}|FrmPrincipal\\MisFormularios.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\frmprincipal\\frmmostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AC9A38-2CEC-44ED-88FD-050353A30993}|FrmPrincipal\\MisFormularios.csproj|solutionrelative:frmprincipal\\frmmostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMostrar.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\FrmPrincipal\\FrmMostrar.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal\\FrmMostrar.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\FrmPrincipal\\FrmMostrar.cs",
+              "RelativeToolTip": "FrmPrincipal\\FrmMostrar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:50:30.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTestDelegados.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\FrmPrincipal\\FrmTestDelegados.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal\\FrmTestDelegados.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\FrmPrincipal\\FrmTestDelegados.cs",
+              "RelativeToolTip": "FrmPrincipal\\FrmTestDelegados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:23:07.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\FrmPrincipal\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\FrmPrincipal\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal\\FrmPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:53:23.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\FrmPrincipal\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 17 - Delegados y expresiones lambda\\Ejercicio Nro 01\\FrmPrincipal\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmPrincipal\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:57:01.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

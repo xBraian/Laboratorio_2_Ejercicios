@@ -1,0 +1,10 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 18 - Eventos\Eventos\Sistema Notificaciones\bin\Debug\Sistema Notificaciones.exe.config
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 18 - Eventos\Eventos\Sistema Notificaciones\bin\Debug\Sistema Notificaciones.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 18 - Eventos\Eventos\Sistema Notificaciones\bin\Debug\Sistema Notificaciones.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 18 - Eventos\Eventos\Sistema Notificaciones\bin\Debug\Entidades.dll
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 18 - Eventos\Eventos\Sistema Notificaciones\bin\Debug\Entidades.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 18 - Eventos\Eventos\Sistema Notificaciones\obj\Debug\Sistema Notificaciones.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 18 - Eventos\Eventos\Sistema Notificaciones\obj\Debug\Sistema Notificaciones.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 18 - Eventos\Eventos\Sistema Notificaciones\obj\Debug\Sistema .CE777246.Up2Date
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 18 - Eventos\Eventos\Sistema Notificaciones\obj\Debug\Sistema Notificaciones.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 18 - Eventos\Eventos\Sistema Notificaciones\obj\Debug\Sistema Notificaciones.pdb

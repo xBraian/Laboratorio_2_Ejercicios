@@ -1,0 +1,10 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 19 - Hilos\Ejercicio Nro 01\Hilos\bin\Debug\Hilos.exe.config
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 19 - Hilos\Ejercicio Nro 01\Hilos\bin\Debug\Hilos.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 19 - Hilos\Ejercicio Nro 01\Hilos\bin\Debug\Hilos.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 19 - Hilos\Ejercicio Nro 01\Hilos\obj\Debug\Hilos.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 19 - Hilos\Ejercicio Nro 01\Hilos\obj\Debug\Hilos.Factorial.resources
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 19 - Hilos\Ejercicio Nro 01\Hilos\obj\Debug\Hilos.Properties.Resources.resources
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 19 - Hilos\Ejercicio Nro 01\Hilos\obj\Debug\Hilos.csproj.GenerateResource.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 19 - Hilos\Ejercicio Nro 01\Hilos\obj\Debug\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 19 - Hilos\Ejercicio Nro 01\Hilos\obj\Debug\Hilos.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 19 - Hilos\Ejercicio Nro 01\Hilos\obj\Debug\Hilos.pdb

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C119960F-8EC1-4E38-98AD-A04EF17DE968}|Sistema Notificaciones\\Sistema Notificaciones.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\sistema notificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C119960F-8EC1-4E38-98AD-A04EF17DE968}|Sistema Notificaciones\\Sistema Notificaciones.csproj|solutionrelative:sistema notificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E8793D-112B-438D-9A4A-A533566600EB}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\entidades\\clases\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E8793D-112B-438D-9A4A-A533566600EB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\clases\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E8793D-112B-438D-9A4A-A533566600EB}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\entidades\\clases\\notificacioneventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E8793D-112B-438D-9A4A-A533566600EB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\clases\\notificacioneventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E8793D-112B-438D-9A4A-A533566600EB}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\entidades\\clases\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E8793D-112B-438D-9A4A-A533566600EB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\clases\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E8793D-112B-438D-9A4A-A533566600EB}|Entidades\\Entidades.csproj|C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\entidades\\clases\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E8793D-112B-438D-9A4A-A533566600EB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\clases\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E8793D-112B-438D-9A4A-A533566600EB}|Entidades\\Entidades.csproj|c:\\users\\braia\\onedrive\\escritorio\\utn\\utn-2024\\1er cuatrimetre\\laboratorio_2_ejercicios\\clase 18 - eventos\\eventos\\entidades\\interfaces\\inotificacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E8793D-112B-438D-9A4A-A533566600EB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\interfaces\\inotificacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotificacionService.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Entidades\\Interfaces\\INotificacionService.cs",
+              "RelativeDocumentMoniker": "Entidades\\Interfaces\\INotificacionService.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Entidades\\Interfaces\\INotificacionService.cs",
+              "RelativeToolTip": "Entidades\\Interfaces\\INotificacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:55:03.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificacionEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Entidades\\Clases\\NotificacionEventArgs.cs",
+              "RelativeDocumentMoniker": "Entidades\\Clases\\NotificacionEventArgs.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Entidades\\Clases\\NotificacionEventArgs.cs",
+              "RelativeToolTip": "Entidades\\Clases\\NotificacionEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:54:08.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Entidades\\Clases\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "Entidades\\Clases\\EmailNotificationService.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Entidades\\Clases\\EmailNotificationService.cs",
+              "RelativeToolTip": "Entidades\\Clases\\EmailNotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:56:50.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmsNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Entidades\\Clases\\SmsNotificationService.cs",
+              "RelativeDocumentMoniker": "Entidades\\Clases\\SmsNotificationService.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Entidades\\Clases\\SmsNotificationService.cs",
+              "RelativeToolTip": "Entidades\\Clases\\SmsNotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:57:13.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Entidades\\Clases\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "Entidades\\Clases\\NotificationManager.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Entidades\\Clases\\NotificationManager.cs",
+              "RelativeToolTip": "Entidades\\Clases\\NotificationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:57:42.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Sistema Notificaciones\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema Notificaciones\\Program.cs",
+              "ToolTip": "C:\\Users\\braia\\OneDrive\\Escritorio\\UTN\\UTN-2024\\1er Cuatrimetre\\Laboratorio_2_Ejercicios\\Clase 18 - Eventos\\Eventos\\Sistema Notificaciones\\Program.cs",
+              "RelativeToolTip": "Sistema Notificaciones\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:58:52.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

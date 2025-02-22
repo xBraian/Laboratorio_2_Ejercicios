@@ -1,0 +1,12 @@
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\obj\Debug\MisFormularios.csproj.AssemblyReference.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\obj\Debug\MisFormularios.csproj.GenerateResource.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\obj\Debug\MisFormularios.csproj.CoreCompileInputs.cache
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\obj\Debug\MisFormularios.FrmMostrar.resources
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\obj\Debug\MisFormularios.FrmPrincipal.resources
+C:\Users\braia\OneDrive\Escritorio\UTN\UTN-2024\1er Cuatrimetre\Laboratorio_2_Ejercicios\Clase 17 - Delegados y expresiones lambda\Ejercicio Nro 01\FrmPrincipal\obj\Debug\MisFormularios.FrmTestDelegados.resources
